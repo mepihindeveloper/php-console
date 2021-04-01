@@ -1,4 +1,4 @@
-# php-headers
+# php-console
 
 Компонент для работы с консолью
 
